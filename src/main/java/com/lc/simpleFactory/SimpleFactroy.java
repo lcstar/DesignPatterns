@@ -1,9 +1,9 @@
-package com.lc.simpleFactory.factory;
+package com.lc.simpleFactory;
 
 
-import com.lc.simpleFactory.model.Product;
-import com.lc.simpleFactory.model.ProductOne;
-import com.lc.simpleFactory.model.ProductTwo;
+import com.lc.model.Product;
+import com.lc.model.ProductOne;
+import com.lc.model.ProductTwo;
 
 public class SimpleFactroy{
 

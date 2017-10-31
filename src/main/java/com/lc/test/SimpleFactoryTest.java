@@ -1,7 +1,7 @@
-package com.lc.simpleFactory.test;
+package com.lc.test;
 
-import com.lc.simpleFactory.factory.SimpleFactroy;
-import com.lc.simpleFactory.model.Product;
+import com.lc.simpleFactory.SimpleFactroy;
+import com.lc.model.Product;
 import org.junit.Test;
 
 public class SimpleFactoryTest {

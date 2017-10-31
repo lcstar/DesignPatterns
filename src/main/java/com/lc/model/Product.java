@@ -1,4 +1,4 @@
-package com.lc.simpleFactory.model;
+package com.lc.model;
 
 public abstract class Product {
     public void same(){

@@ -1,4 +1,4 @@
-package com.lc.simpleFactory.model;
+package com.lc.model;
 
 public class ProductOne extends Product {
     @Override

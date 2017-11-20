@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.lc.builderPattern.builder.impl.AngelBuilder</className>
+</config>
